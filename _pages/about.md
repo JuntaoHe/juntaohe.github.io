@@ -15,7 +15,7 @@ During my PhD, I have developed elongated multi-legged robotic systems and integ
 
 Our research has been featured by outlets such as [BBC](https://www.bbc.co.uk/newsround/65493145), [IEEE Spectrum](https://spectrum.ieee.org/ground-control-robot-insects), [New Scientist](https://www.newscientist.com/article/2344493-brown-centipede-uses-a-weird-body-motion-to-swim-not-its-many-legs/#:~:text=Life-,Brown%20centipede%20uses%20a%20weird%20body,swim%2C%20not%20its%20many%20legs&text=Some%20centipedes%20don%27t%20swim,use%20to%20move%20across%20water.), [Science](https://www.science.org/content/article/centipedes-envy-engineers-inspire-new-generation-robots), and [Physics World](https://physicsworld.com/a/multilegged-robots-crawl-over-rough-terrain-building-houses-with-used-diapers/), and it has contributed to the development of the startup Ground Control Robotics Inc.
 
-<span style="color: red;">### I'm currently seeking Robotics Research Scientist or Engineering roles. If you think my background could be a good fit, please feel free to reach me directly at jhe391@gatech.edu.</span>
+## <span style="color: blue;">I'm currently seeking Robotics Research Scientist or Engineering roles. If you think my background could be a good fit, please feel free to reach me directly at jhe391@gatech.edu.</span>
 
 ## News
 
