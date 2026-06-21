@@ -9,14 +9,14 @@ redirect_from:
 
 ## About Me
 
-I'm a final-year PhD student in Robotics at Georgia Tech, advised by [Daniel Goldman](https://crablab.gatech.edu/) and [Sehoon Ha](https://faculty.cc.gatech.edu/~sha9/). My research interests include legged locomotion, bio-inspired robotics, tactile sensing, and reinforcement learning.
+I’m a Senior Research Scientist at [Analog Devices, Inc.](https://www.analog.com/en/index.html), working on robotics and AI. I received my PhD in Robotics at Georgia Tech, advised by [Daniel Goldman](https://crablab.gatech.edu/) and [Sehoon Ha](https://faculty.cc.gatech.edu/~sha9/). My research interests include legged locomotion, bio-inspired robotics, tactile sensing, and reinforcement learning.
 
 During my PhD, I have developed elongated multi-legged robotic systems and integrated tactile sensing, reinforcement learning, and geometric control to improve locomotion in highly unstructured, confined environments. Our work has been published in top journals and conferences, including **Science, IEEE Transactions on Robotics, Proceedings of the National Academy of Sciences, The International Journal of Robotics Research, Robotics: Science and Systems, and ICRA**.
 
 Our research has been featured by outlets such as [BBC](https://www.bbc.co.uk/newsround/65493145), [IEEE Spectrum](https://spectrum.ieee.org/ground-control-robot-insects), [New Scientist](https://www.newscientist.com/article/2344493-brown-centipede-uses-a-weird-body-motion-to-swim-not-its-many-legs/#:~:text=Life-,Brown%20centipede%20uses%20a%20weird%20body,swim%2C%20not%20its%20many%20legs&text=Some%20centipedes%20don%27t%20swim,use%20to%20move%20across%20water.), [Science](https://www.science.org/content/article/centipedes-envy-engineers-inspire-new-generation-robots), and [Physics World](https://physicsworld.com/a/multilegged-robots-crawl-over-rough-terrain-building-houses-with-used-diapers/), and it has contributed to the development of the startup [Ground Control Robotics Inc](https://groundcontrolrobotics.com/).
 
 I also served as a reviewer of IEEE Transactions on Robotics, The International Journal of Robotics Research, Journal of Field Robotics, npj Robotics, IROS, ICRA.
-## <span style="color: blue;">I'm currently seeking Robotics Research Scientist or Engineering roles. If you think my background could be a good fit, please feel free to reach me directly at jhe391@gatech.edu.</span>
+<!-- ## <span style="color: blue;">I'm currently seeking Robotics Research Scientist or Engineering roles. If you think my background could be a good fit, please feel free to reach me directly at jhe391@gatech.edu.</span> -->
 
 ## News
 
